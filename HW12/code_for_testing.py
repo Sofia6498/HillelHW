@@ -7,6 +7,7 @@ class Human:
         self.__age_limit = 105
         self.friends = []
 
+
     @property
     def status(self):
         return self.__status
